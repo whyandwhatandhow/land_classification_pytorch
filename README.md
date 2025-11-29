@@ -1,2 +1,3 @@
 # land_classification_pytorch
 基于Resnet的地物分类系统
+![alt text](image.png)
